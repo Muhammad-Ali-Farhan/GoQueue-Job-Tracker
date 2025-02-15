@@ -1,4 +1,5 @@
 # GoQueue – A Minimalist Distributed Task Queue
+# Conceptual Model Project
 
 A lightweight distributed task queue in Go. It uses Goroutines and channels to process jobs asynchronously with fault tolerance, optional persistence, and a simple REST API for submitting jobs.
 
